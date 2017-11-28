@@ -122,7 +122,7 @@ class Thumbnail extends PureComponent {
           {...props}
         >
           <Image
-            source={require('./assets/play.png')}
+            source={require('./play.png')}
             style={[styles.playIcon, iconStyle]}
           />
 
