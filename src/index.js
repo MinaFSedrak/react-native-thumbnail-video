@@ -139,7 +139,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   playIcon: {
-    tintColor: 'white',
+    width: 50,
+    height: 50
   },
 });
 
